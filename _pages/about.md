@@ -1,34 +1,42 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Critical Infrastructure Cybersecurity · Cyber-Physical Systems · Privacy-Preserving Computing
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Manager, Telecom (Transmission)</p>
+    <p>K-Electric · Karachi, Pakistan</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
+selected_papers: false
+social: true
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
+  enabled: false
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an engineering and technology professional with experience in electric-utility telecommunications, grid operations support, and operational-technology (OT) environments. My academic background combines a **BS in Electronics Engineering** with an **MS in Computer Science & IT**, allowing me to approach critical-infrastructure security from both systems-engineering and computing perspectives.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests include **OT/ICS cybersecurity, cyber-physical systems, secure communications for critical infrastructure, privacy-preserving data sharing, differential privacy, and trustworthy computing**. I am particularly interested in research that connects rigorous methods with the realities of energy systems: resilience, secure data exchange, dependable communications, and practical security engineering.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My master's thesis, *Analysis of Privacy-Preserving Techniques and Algorithms for Trustworthy Data Sharing*, examined differential-privacy mechanisms including Laplace, Gaussian, and Exponential mechanisms. I am interested in extending this foundation toward privacy-aware analytics and trustworthy data-driven systems, while drawing on professional experience in utility telecommunications and grid-related OT.
+
+## Research directions
+
+- **OT/ICS and critical-infrastructure cybersecurity:** threat-informed security, segmentation, monitoring, resilience, and security-by-design for operational environments.
+- **Cyber-physical energy systems:** secure and dependable communications supporting substations, protection, automation, and control.
+- **Privacy-preserving computing:** differential privacy and privacy-utility trade-offs in data sharing and analytics.
+- **Trustworthy systems:** practical methods that improve the security, reliability, and responsible use of data in critical systems.
+
+## What I bring to a research group
+
+I bring an applied perspective from electric-utility telecommunications and transmission environments, alongside formal postgraduate study in computer science and information technology. My professional work has involved utility communication technologies and OT-facing systems, and I also contribute to learning and development through technical training and mentoring.
+
+I welcome conversations with potential PhD supervisors and research groups working on critical-infrastructure cybersecurity, industrial control systems, cyber-physical security, privacy-enhancing technologies, and trustworthy computing.
+
+**Prospective PhD collaboration:** I am interested in fully funded doctoral opportunities where my industry experience and research interests align with the group's current projects.
