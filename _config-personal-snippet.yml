@@ -1,0 +1,17 @@
+# Merge these values into the corresponding keys in the upstream _config.yml.
+# Do not replace the complete al-folio configuration with this snippet.
+title: "Hammad Shaikh | Research Portfolio"
+first_name: "Hammad"
+middle_name: ""
+last_name: "Shaikh"
+email: "YOUR-EMAIL"
+description: >-
+  Research portfolio of Hammad Shaikh, working at the intersection of
+  critical-infrastructure cybersecurity, cyber-physical systems, secure utility
+  communications, and privacy-preserving data sharing.
+footer_text: >-
+  Research portfolio for academic and professional collaboration.
+url: "https://YOUR-GITHUB-USERNAME.github.io"
+baseurl:
+# Keep upstream plugin and deployment settings unless you intentionally change them.
+# Update your social links in _data/socials.yml.
